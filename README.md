@@ -4,12 +4,40 @@
 
 To propose a talk, simply create a github issue [here][new-talk-proposal] :smile:
 
-## 2017
+## Sample Format
 
 * [Speaker Name](#): 
 	* **Session Title** ([date])
 	    * [Video Link](#)
 	    * [Presentation Link](#)
+
+## 2017
+
+* [Garima Jain](https://twitter.com/ragdroid): 
+	* **Rxify : A Talk to Remember ** (24th January)
+	    * [Presentation Link](https://speakerdeck.com/ragdroid/rxify-a-talk-to-remember-codelab)
+	    * [Codelab Link](https://github.com/ragdroid/rxify/tree/codelab)
+* [Harshit Dwivedi](https://github.com/the-dagger): 
+	* **Google Summer of Code** ([date])
+	    * [Presentation Link](https://docs.google.com/presentation/d/1cxmqt0jCwsHrP5zSpjfrZxh90AxdXYMwL0lWxa1PhCg/edit?usp=sharing)
+
+## 2016
+
+* [Speaker Name](#): 
+	* **Continuous Integration and Deployment with BuddyBuild** ([date])
+	    * [Presentation Link](https://docs.google.com/presentation/d/1GnVSIir0xh4gYz7ODXpbRh4xJtHh9b_oi6FwP5ak0L4/edit?usp=sharing)
+* [Neha Sharma](https://twitter.com/hellonehha): 
+	* **NEW AGE OF WEB-APPS: PROGRESSIVE WEB APPS** ([date])
+	    * [Presentation Link](https://docs.google.com/presentation/d/1IKslWzoQdp9-od7S_8jvxpo-bAAjaOeDNBeAXPpOwic/edit?usp=sharing)
+* [Nishant Srivastava](www.nisrulz.com): 
+	* **Sipping on Battery Juice** (18 May)
+	    * [Presentation Link](https://speakerdeck.com/nisrulz/sipping-on-battery-juice)
+	* **Building Apps for Billions** (7 August)
+	    * [Presentation Link](https://speakerdeck.com/nisrulz/building-apps-for-billions)
+	* **Jumpstart Firebase** (2 October)
+	    * [Presentation Link](https://speakerdeck.com/nisrulz/jumpstart-firebase)
+	* **Mastering Tools for Android** (8 October)
+	    * [Presentation Link](https://speakerdeck.com/nisrulz/mastering-tools-for-android)
 
 [GDG New Delhi]: https://gdgnewdelhi.github.io/
 [new-talk-proposal]: https://github.com/gdgnewdelhi/talks/issues/new?title=Proposal:%20%3Ctitle%3E&body=%3Cdescription%3E
