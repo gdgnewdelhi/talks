@@ -23,7 +23,7 @@ To propose a talk, simply create a github issue [here][new-talk-proposal] :smile
 
 ## 2016
 
-* [Speaker Name](#): 
+* [Harshit Dwivedi](https://github.com/the-dagger): 
 	* **Continuous Integration and Deployment with BuddyBuild** ([date])
 	    * [Presentation Link](https://docs.google.com/presentation/d/1GnVSIir0xh4gYz7ODXpbRh4xJtHh9b_oi6FwP5ak0L4/edit?usp=sharing)
 * [Neha Sharma](https://twitter.com/hellonehha): 
