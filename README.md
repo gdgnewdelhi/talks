@@ -40,7 +40,7 @@ To propose a talk, simply create a github issue [here][new-talk-proposal] :smile
 	    * [Presentation Link](https://speakerdeck.com/nisrulz/mastering-tools-for-android)
 
 [GDG New Delhi]: https://gdgnewdelhi.github.io/
-[new-talk-proposal]: https://github.com/gdgnewdelhi/talks/issues/new?title=Proposal:%20%3Ctitle%3E&body=%3Cdescription%3E
+[new-talk-proposal]: https://github.com/gdgnewdelhi/talks/issues/new?title=Proposal:%20%3Ctitle%3E
 
 ---
 Inspired by [pydelhi](https://github.com/pydelhi/talks).
