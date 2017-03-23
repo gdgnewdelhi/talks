@@ -39,6 +39,21 @@ To propose a talk, simply create a github issue [here][new-talk-proposal] :smile
 	* **Mastering Tools for Android** (8 October)
 	    * [Presentation Link](https://speakerdeck.com/nisrulz/mastering-tools-for-android)
 
+* [Arpan Garg](https://www.github.com/arpansac)
+	* **Introduction To Firebase** (18 May - I/O Extended)
+		* [Presentation Link](https://gdg-firebase-34906.firebaseapp.com/)
+	* **Polymer - Building Blocks For The Web** (8 Oct - Devfest)
+		* [Presentation Link](https://polymer-arpansac.firebaseapp.com/)
+
+
+
+## 2015
+
+* [Arpan Garg](https://www.github.com/arpansac)
+	* **Introduction To Firebase** (18 October - Devfest)
+		* [Presentation Link](https://gdg-firebase-34906.firebaseapp.com/)
+
+
 [GDG New Delhi]: https://gdgnewdelhi.github.io/
 [new-talk-proposal]: https://github.com/gdgnewdelhi/talks/issues/new?title=Proposal:%20%3Ctitle%3E
 
