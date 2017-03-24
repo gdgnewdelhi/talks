@@ -14,7 +14,7 @@ To propose a talk, simply create a github issue [here][new-talk-proposal] :smile
 ## 2017
 
 * [Garima Jain](https://twitter.com/ragdroid): 
-	* **Rxify : A Talk to Remember ** (24th January)
+	* **Rxify : A Talk to Remember** (24th January)
 	    * [Presentation Link](https://speakerdeck.com/ragdroid/rxify-a-talk-to-remember-codelab)
 	    * [Codelab Link](https://github.com/ragdroid/rxify/tree/codelab)
 * [Harshit Dwivedi](https://github.com/the-dagger): 
