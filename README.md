@@ -12,7 +12,10 @@ To propose a talk, simply create a github issue [here][new-talk-proposal] :smile
 	    * [Presentation Link](#)
 
 ## 2017
-
+* [Prabhjot Singh](https://github.com/prabh-me):
+        * **Big Data pipeline using Google Cloud** ([2nd April])
+            * [Codelab Link](https://github.com/prabh-me/functions-samples)
+	    * [Codelab Link](https://github.com/prabh-me/BigQuery_Tables_Generate)
 * [Garima Jain](https://twitter.com/ragdroid): 
 	* **Rxify : A Talk to Remember** (24th January)
 	    * [Presentation Link](https://speakerdeck.com/ragdroid/rxify-a-talk-to-remember-codelab)
