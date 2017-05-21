@@ -25,6 +25,9 @@ To propose a talk, simply create a github issue [here][new-talk-proposal] :smile
 	* Codelab Link
 		+ [Function Samples](https://github.com/prabh-me/functions-samples)
 		+ [BigQuery Tables Generate](https://github.com/prabh-me/BigQuery_Tables_Generate)
+* [Punit Chawla](https://www.facebook.com/punitdesign): 
+	* **UX & UI Bloom** (20 May)
+	    * [Presentation Link](https://docs.google.com/presentation/d/1NcMTH3IHB3Lg48Da37Snw15it6_BelEUgd5zVly6fOE/edit?usp=sharing)
 
 ## 2016
 
