@@ -28,6 +28,11 @@ To propose a talk, simply create a github issue [here][new-talk-proposal] :smile
 * [Punit Chawla](https://www.facebook.com/punitdesign): 
 	* **UX & UI Bloom** (20 May)
 	    * [Presentation Link](https://docs.google.com/presentation/d/1NcMTH3IHB3Lg48Da37Snw15it6_BelEUgd5zVly6fOE/edit?usp=sharing)
+* [Abhinav Tyagi](https://www.linkedin.com/in/tyagiabhinav/): 
+	* **Android Things and JARVIS** (20 May)
+	    * [Presentation Link](https://docs.google.com/presentation/d/1DeSZgfR7t3Q0U-gZpDhzVYlzS9eIS3bCfNoOr4AoDHc/edit?usp=sharing)
+		* [Video Link](https://youtu.be/xPKLcJJxpJM)
+		* [Code Link](https://github.com/abhi007tyagi/JARVIS)		
 
 ## 2016
 
