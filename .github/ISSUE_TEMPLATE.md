@@ -1,4 +1,4 @@
-Please fill out the form below with respect to your proposed talk before submitting, thank you!
+<!--Please fill out the form below with respect to your proposed talk before submitting, thank you!-->
 
 - [ ] Title
 - [ ] Short Abstract
