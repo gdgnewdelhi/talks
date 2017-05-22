@@ -4,8 +4,8 @@
 
 To propose a talk, simply create a github issue [here][new-talk-proposal] :smile:
 
-## [Speaker Package](/speaker_package.md)
-## [Past talks at GDG New Delhi event](/past_talks_title.md)
+#### [Speaker Package](/speaker_package.md)
+#### [Past talks at GDG New Delhi event](/past_talks_titles.md)
 
 [GDG New Delhi]: https://gdgnewdelhi.github.io/
 [new-talk-proposal]: https://github.com/gdgnewdelhi/talks/issues/new?title=Proposal:%20%3Ctitle%3E
