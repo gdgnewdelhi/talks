@@ -23,7 +23,7 @@
 		* [Video Link](https://youtu.be/xPKLcJJxpJM)
 		* [Code Link](https://github.com/abhi007tyagi/JARVIS)	
 * [Asheesh Sharma](https://www.linkedin.com/in/asheesh-sharma-codeyourstack/): 
-	* **App Performance and Optimization Techniques ** (20 May)
+	* **App Performance and Optimization Techniques** (20 May)
 	    * [Presentation Link](https://my.visme.co/projects/4dox6wgy-gdg-io-extended)
 
 ## 2016
