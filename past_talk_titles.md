@@ -21,7 +21,10 @@
 	* **Android Things and JARVIS** (20 May)
 	    * [Presentation Link](https://docs.google.com/presentation/d/1DeSZgfR7t3Q0U-gZpDhzVYlzS9eIS3bCfNoOr4AoDHc/edit?usp=sharing)
 		* [Video Link](https://youtu.be/xPKLcJJxpJM)
-		* [Code Link](https://github.com/abhi007tyagi/JARVIS)		
+		* [Code Link](https://github.com/abhi007tyagi/JARVIS)	
+* [Asheesh Sharma](https://www.linkedin.com/in/asheesh-sharma-codeyourstack/): 
+	* **App Performance and Optimization Techniques ** (20 May)
+	    * [Presentation Link](https://my.visme.co/projects/4dox6wgy-gdg-io-extended)
 
 ## 2016
 
