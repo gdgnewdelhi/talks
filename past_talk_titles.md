@@ -25,6 +25,12 @@
 * [Asheesh Sharma](https://www.linkedin.com/in/asheesh-sharma-codeyourstack/): 
 	* **App Performance and Optimization Techniques** (20 May)
 	    * [Presentation Link](https://my.visme.co/projects/4dox6wgy-gdg-io-extended)
+* [Shubham Gupta](https://about.me/shubham08gupta): 
+	* **Android Performance Patterns** (05 June)
+	    * [Presentation Link](https://drive.google.com/file/d/0B_R1J9aj3T9fdXZWUjFMNWpoQjQ/view?usp=sharing)
+* [Gaurav Gogia](https://www.facebook.com/Euphaemism): 
+	* **To Go or not to Go?** (05 June)
+	    * [Presentation Link](https://drive.google.com/file/d/0B_R1J9aj3T9fSkdiMnNqd091RWs/view?usp=sharing)
 
 ## 2016
 
