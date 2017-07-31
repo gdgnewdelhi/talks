@@ -25,6 +25,9 @@
 * [Asheesh Sharma](https://www.linkedin.com/in/asheesh-sharma-codeyourstack/): 
 	* **App Performance and Optimization Techniques** (20 May)
 	    * [Presentation Link](https://my.visme.co/projects/4dox6wgy-gdg-io-extended)
+* [Ashesh Bharadwaj](https://www.linkedin.com/in/asheshb/): 
+	* **Android Architecture Components - Light at the end of tunnel?** (30 July)
+	    * [Presentation Link](https://drive.google.com/file/d/0B-E5H3RNZJlNelNJNkhidWtvQm8/view)
 
 ## 2016
 
